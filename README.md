@@ -15,4 +15,4 @@ The WasteQR can be used by businesses looking to mitigate their environmental ef
 
 When unsure of the waste type of a specific item and the proper disposal method, users can scan the WasteQR code on the packaging. WasteQR will notify the user of the waste type as well as extra disposal notes (e.g., a “Corrosive!” warning), enabling the user to dispose of their item in an environmentally-friendly manner. In this way, WasteQR supports conscious consumerism.
 
-For instructions, please view the [user manual](https://docs.google.com/document/d/1P6H4LAnFJWdziro8hqhBMfruTkSBn5a1xDI-5gvaT_w/edit?usp=sharing)
+For instructions, please view the [user manual](https://docs.google.com/document/d/1P6H4LAnFJWdziro8hqhBMfruTkSBn5a1xDI-5gvaT_w/edit?usp=sharing).
