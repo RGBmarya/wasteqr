@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WasteQR</string>
+    <string-array name="waste_types">
+        <item>Recycle</item>
+        <item>Compost</item>
+        <item>Landfill</item>
+        <item>E-Waste</item>
+    </string-array>
+</resources>
