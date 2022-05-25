@@ -19,10 +19,8 @@ class InputActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = InputActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
-//        supportActionBar?.setBackgroundDrawable(Color.parseColor("#0F823B"))
         //Set initial color spinner state
         loadColorSpinner()
-
     }
 
     fun sendMessage(view: View){
